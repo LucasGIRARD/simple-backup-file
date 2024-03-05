@@ -1,0 +1,6 @@
+C:\Users\girar\Desktop\VS\fini\LGBackup\LGBackup\bin\Release\LGBackup.exe.config
+C:\Users\girar\Desktop\VS\fini\LGBackup\LGBackup\bin\Release\LGBackup.exe
+C:\Users\girar\Desktop\VS\fini\LGBackup\LGBackup\obj\Release\LGBackup.FRM_main.resources
+C:\Users\girar\Desktop\VS\fini\LGBackup\LGBackup\obj\Release\LGBackup.Resources.resources
+C:\Users\girar\Desktop\VS\fini\LGBackup\LGBackup\obj\Release\LGBackup.vbproj.GenerateResource.Cache
+C:\Users\girar\Desktop\VS\fini\LGBackup\LGBackup\obj\Release\LGBackup.exe
